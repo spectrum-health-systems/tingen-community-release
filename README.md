@@ -20,8 +20,6 @@ The Tingen Community Release is:
 * Has beautiful code*! Like **poetry**!
 * For use by the Avatar Community!
 
-<sup>* Not really, but I think it's nice.</sup>
-
 # Repository branches
 
 There are three types of branches in this repository:
@@ -37,3 +35,5 @@ There are three types of branches in this repository:
 # Documentation
 
 You can find all the documentation you could ever want about Tingen (and related projects) [here](https://github.com/spectrum-health-systems/Tingen-Documentation).
+
+<sup>* Not really, but I think it's nice.</sup>
