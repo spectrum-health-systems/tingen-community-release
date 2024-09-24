@@ -36,4 +36,4 @@ There are three types of branches in this repository:
 
 You can find all the documentation you could ever want about Tingen (and related projects) [here](https://github.com/spectrum-health-systems/Tingen-Documentation).
 
-<s>* Not really, but I think it's nice.</s>
+<sup>* Not really, but I think it's nice.</sup>
