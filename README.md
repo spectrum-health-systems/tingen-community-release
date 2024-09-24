@@ -17,7 +17,7 @@ The Tingen Community Release is:
 
 * The **stable, tested** version of Tingen!
 * **Intended** to be used in production environments!
-* Has beautiful code! Like **poetry**!
+* Has beautiful code*! Like **poetry**!
 * For use by the Avatar Community!
 
 # Repository branches
@@ -35,3 +35,5 @@ There are three types of branches in this repository:
 # Documentation
 
 You can find all the documentation you could ever want about Tingen (and related projects) [here](https://github.com/spectrum-health-systems/Tingen-Documentation).
+
+<s>* Not really, but I think it's nice.</s>
