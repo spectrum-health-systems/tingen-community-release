@@ -2,7 +2,7 @@
 
   ![logo](./.github/images/logos/TingenCommunityRelease_README.png)
   
-  ![ReleaseVersion](https://img.shields.io/badge/release-24.9--development-seagreen?style=flat-square)&nbsp;&nbsp;
+  ![PRODUCTION_VERSION](https://img.shields.io/badge/release-00.00-seagreen?style=flat-square)&nbsp;&nbsp;
   ![DotNet](https://img.shields.io/badge/.net-Framework_4.8-darkslateblue?style=flat-square)&nbsp;&nbsp;
   ![Platform](https://img.shields.io/badge/platform-Windows-blue?style=flat-square)&nbsp;&nbsp;
   ![License](https://img.shields.io/github/license/spectrum-health-systems/Outpost31?style=flat-square)&nbsp;&nbsp;
